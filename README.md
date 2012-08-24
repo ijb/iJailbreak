@@ -1,7 +1,7 @@
 iJailbreak
 ==========
 html buillding:
-
+"
 <html>
 <head>
 <title>iJailbreak</title>
@@ -46,5 +46,6 @@ plist buillding:
 	</array>
 </dict>
 </plist>
+"
 replace cydia.ipa with cydia.ipa url.
 iJailbreak
